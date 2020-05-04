@@ -1,20 +1,20 @@
 
 
 const site_ga = ''; // through segment
-const site_segment = 'QF5RTz2c5w4fzllUvqERA9GjaCgqdGhj'; // alphaguide segment ID
-const site_url = 'https://chinookaerosports.com';
-const site_name = 'Chinook Aerosports';
-const site_title = 'Chinook Aerosports';
-const site_twitter = '@chinookaero';
+// const site_segment = 'QF5RTz2c5w4fzllUvqERA9GjaCgqdGhj'; // alphaguide segment ID
+const site_url = 'https://maskfashion.org';
+const site_name = 'Maskfashion.org';
+const site_title = 'Mask Fashion';
+const site_twitter = '@maskfashion';
 const site_twitter_creator = '@yawnxyz';
 const site_color = '#D8E1F7';
-const site_description = 'Ride the winds';
+// const site_description = 'Ride the winds';
 
 // const site_ico = '/ico_dull.png'; // site icon
-const site_ico = '/chinook_icon.png';
-const site_image = '/share_img_2.png';
+const site_ico = 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/face-with-medical-mask_1f637.png';
+const site_image = '/images/hero.jpg';
 const site_search = 'index,follow';
-const site_author = 'Jan Zheng';
+const site_author = '';
 const page_name = ''; // placeholder for the copy+paste
 
 const site_fb = ''; //
