@@ -8,7 +8,7 @@ const site_title = 'Mask Fashion';
 const site_twitter = '@maskfashion';
 const site_twitter_creator = '@yawnxyz';
 const site_color = '#D8E1F7';
-// const site_description = 'Ride the winds';
+const site_description = 'Buy and sell cool masks';
 
 // const site_ico = '/ico_dull.png'; // site icon
 const site_ico = 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/face-with-medical-mask_1f637.png';
