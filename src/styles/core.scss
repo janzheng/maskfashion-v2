@@ -1,0 +1,34 @@
+/**
+ *
+ * Inheriting box sizing slightly better best-practice
+ * https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ *
+ */
+
+@import './resets.scss';
+
+
+
+
+
+html * {
+  box-sizing: border-box;
+  font-family: 'Work Sans', sans-serif !important;
+  color: #3d3b37 !important;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
